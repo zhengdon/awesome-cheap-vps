@@ -41,6 +41,9 @@ providers that (a) sell real KVM virtualization, (b) have a stable track record,
 
 - [CheapVPS Guide](https://vps.itsearcher.com/) — independent reviews and side-by-side
   comparisons of every provider listed above.
+- [VPS Deals Wire](https://www.vpsdealswire.com/) — independent cheap-VPS comparison;
+  231 live deals across 28 providers, prices refreshed every 6 hours from each
+  provider's own page.
 
 ## How to contribute
 
