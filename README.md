@@ -46,3 +46,7 @@ providers that (a) sell real KVM virtualization, (b) have a stable track record,
 
 Open a PR to add a provider or tool. Include: entry price, virtualization type, renewal
 terms, and why it belongs. Spam or undisclosed self-promotion gets rejected.
+
+## Offer verification tool
+
+For readers who want to compare published VPS terms before checkout, see the open-source [VPS Deals Tools](https://github.com/yumin985/vps-deals-tools) dataset and verification checklist. It records public source URLs and check times; it does not replace the provider's current terms.
