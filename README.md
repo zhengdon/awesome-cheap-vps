@@ -36,6 +36,7 @@ providers that (a) sell real KVM virtualization, (b) have a stable track record,
 - **Docker Compose** — reproducible stacks; keep configs in Git.
 - **Uptime Kuma** — self-hosted monitoring for your servers.
 - **Cloudflare** — free CDN/SSL in front of any origin.
+- **[CloudWorth](https://www.getcloudworth.com/)** — check whether a VPS is oversold: CPU steal time, disk cache fakery and old CPU generation, plus right-sizing advice. Freemium SaaS with a closed-source probe (Linux/Windows Server); first check free without signup. Available in 11 languages.
 
 ## Reviews & comparisons
 
